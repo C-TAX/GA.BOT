@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://piyobot.000webhostapp.com/822161.png" alt="Piyobot" width="400" />
+<img src="https://i.ibb.co.com/tDJT66m/zerotwo.jpg" alt="Piyobot" width="400" />
 
 # Piyobot
   
