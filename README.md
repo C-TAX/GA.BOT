@@ -61,8 +61,8 @@
 # installation
 ## 📝 Cloning this repo
 ```bash
-> git clone https://github.com/IndonesianDev/whatsapp-bot
-> cd whatsapp-bot
+> git clone https://github.com/C-TAX/GA.BOT.git
+> cd GA.BOT
 ```
 
 ## ✍️ Edit filenya
