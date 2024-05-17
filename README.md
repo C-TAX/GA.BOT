@@ -33,11 +33,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#Requirements">Persyaratan</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#installation">Cara Penginstalan</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#features">Fiturnya</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#thanks-to">Terimakasih Kepada</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bott#license">lisensi</a>
+  <a href="https://github.com/C-TAX/GA.BOT#Requirements">Persyaratan</a> •
+  <a href="https://github.com/C-TAX/GA.BOT#installation">Cara Penginstalan</a> •
+  <a href="https://github.com/C-TAX/GA.BOT#features">Fiturnya</a> •
+  <a href="https://github.com/C-TAX/GA.BOT#thanks-to">Terimakasih Kepada</a> •
+  <a href="https://github.com/C-TAX/GA.BOT#license">lisensi</a>
 </p>
 
 <h4 align="center">
