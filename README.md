@@ -282,7 +282,7 @@ Fix Stuck on linux, install google chrome stable:
 
 # Thanks to
 * [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
-* [`ALLAH SWT`]
-* [`NABI MUHAMMAD SAW`]
-* [`ORANG TUA`]
+* `ALLAH SWT`
+* `NABI MUHAMMAD SAW`
+* `ORANG TUA`
   
