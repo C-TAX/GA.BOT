@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlvioAdjiJanuar"><img title="Author" src="https://img.shields.io/badge/Author-AlvioAdjiJanuar-darkred.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/C-TAX"><img title="Author" src="https://img.shields.io/badge/Author-KILLA-darkred.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
