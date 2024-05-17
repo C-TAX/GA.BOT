@@ -23,13 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/C-TAX/GA.BOT"><img title="Stars" src="https://img.shields.io/github/stars/IndonesianDev/whatsapp-bot?color=black&style=flat-square" /></a>
-  <a href="https://github.com/C-TAX/GA.BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IndonesianDev/whatsapp-bot??color=pink&style=flat-square" /></a>
-  <a href="https://github.com/C-TAX/GA.BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IndonesianDev/whatsapp-bot??label=watchers&color=blue&style=flat-square" /></a> <br>
+  <a href="https://github.com/C-TAX/GA.BOT"><img title="Stars" src="https://img.shields.io/github/stars/C-TAX/GA.BOT?color=black&style=flat-square" /></a>
+  <a href="https://github.com/C-TAX/GA.BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/C-TAX/GA.BOT??color=pink&style=flat-square" /></a>
+  <a href="https://github.com/C-TAX/GA.BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/C-TAX/GA.BOT??label=watchers&color=blue&style=flat-square" /></a> <br>
   <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
   <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
   <img src="https://img.shields.io/github/repo-size/C-TAX/GA.BOT" /> <br>
-  <a href="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot"><img src="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot/badge" alt="CodeFactor" /></a>
+  <a href="https://www.codefactor.io/repository/github/c-tax/ga.bot"><img src="https://www.codefactor.io/repository/github/c-tax/ga.bot/badge" alt="CodeFactor" /></a>
 </p>
 
 <p align="center">
