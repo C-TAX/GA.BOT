@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co.com/tDJT66m/zerotwo.jpg" alt="Piyobot" width="400" />
+<img src="https://i.ibb.co.com/tDJT66m/zerotwo.jpg" alt="GA.BOT" width="400" />
 
 # GA.BOT
   
