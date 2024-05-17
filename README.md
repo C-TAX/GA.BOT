@@ -41,7 +41,7 @@
 </p>
 
 <h4 align="center">
-  <a href="https://chat.whatsapp.com/Lb8nqO0WNoeJfR2bUGrZXf">Group Whatsapp</a>
+  <a href="https://wa.me/qr/VEMR34P6IBSXH1">Author Contact</a>
 </h4>
   
 <h4 align="center">
