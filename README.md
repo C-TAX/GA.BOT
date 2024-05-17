@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://i.ibb.co.com/tDJT66m/zerotwo.jpg" alt="Piyobot" width="400" />
 
-# Piyobot
+# GA.BOT
   
 > I am very very bored, give me a task to update or develop this bot? feature suggestions?
 
 <p align="center">
- Piyobot Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message
+ GA.BOT Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message
 </p>
 
 <a href="https://chat.whatsapp.com/IY8OvPk02qxKb1xd0DXtUR" align="center">
